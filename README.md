@@ -1,2 +1,2 @@
 # Graph Attention Layer-
-First rep 
+This repository contains implemetation of Graph Attention Layer for RNA activity classification
